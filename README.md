@@ -1,0 +1,2 @@
+# latihanLaravel
+Latihan menggunakan laravel
